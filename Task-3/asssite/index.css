@@ -1,0 +1,59 @@
+#nav{
+    width: 100%;
+    height: 50px;
+    background-color: #24292e;
+    display: flex;
+}
+.icon{
+    background-color: white;
+    margin-left: 35px;
+    margin-top: 10px;
+    border-radius: 30%;
+    display: inline-block;
+}
+.inp{
+    margin-left: 34px;
+    margin-top: 15px;
+    background-color: white;
+    width: 250px;
+    height: 20px;
+    border: 1px solid silver;
+    display: inline-block;
+    background-color: #24292e;
+    color: white;
+}
+ul{
+    padding-left: 10px;
+}
+ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding-left: 20px;
+}
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: silver;
+}
+.icon1{
+    margin-left: 420px;
+    margin-top: 10px;
+    
+}
+.icon2{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+.icon3{
+    margin-left: 20px;
+    margin-top: 10px;
+    
+}
+.icon4{
+    margin-left: 25px;
+    margin-top: 13px;
+    
+}
